@@ -4,7 +4,7 @@
 
 # Book_writer_LSTM
  ### 
-<strong> It uses LSTM to learn writing a book character by character.</strong>
+<strong> It uses CNN to perform neural style transfer.</strong>
 
 ### Dateset
 Download URL for the dataset is provided in the python notebook.
